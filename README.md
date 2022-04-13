@@ -1,5 +1,5 @@
 <details>
-  <summary><strong>Programming Languages</strong></summary>
+  <summary>Programming Languages</summary>
 
   <ul>
     <li>
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary><strong>Frameworks/Tools</strong></summary>
+  <summary>Frameworks/Tools</summary>
     <h5>Databases:</h5>
   <ul>
     <li>
