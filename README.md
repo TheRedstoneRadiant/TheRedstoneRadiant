@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=TheRedstoneRadiant)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 <details>
   <summary><strong>Top Languages:</strong></summary>
