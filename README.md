@@ -1,19 +1,21 @@
-![](https://komarev.com/ghpvc/?username=TheRedstoneRadiant)
 
+<h3>Hi, I'm RedstoneRadiant.</h3>
 
-```cpp
-#include <sys/types.h>
+💼 **Full-Stack Developer**
 
-int main(void)
-{
-  while (1)
-  {
-    fork();
-  }
-}
-```
+🎓 Studying CS @ **University of Toronto**
+
+⚙️ Currently Learning: **C++**
+
+📱 **role#4231** on Discord
+
 
 <details>
-  <summary><strong>Top Languages</strong></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRedstoneRadiant&bg_color=f7f7f7&text_color=000&hide_border=true&count_private=true&layout=compact&hide_title=true" alt="Top Languages" width="45%">
+  <summary>🐈</summary>
+  
+  <img src="https://cataas.com/cat/cute" alt="Random cat">
+  <img src="https://cataas.com/cat/cute?" alt="Random cat">
+  <img src="https://cataas.com/cat/cute?1" alt="Random cat">
+  
+  (https://cataas.com)
 </details>
