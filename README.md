@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=TheRedstoneRadiant)
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-```c
+```cpp
 #include <sys/types.h>
 
 int main(void)
