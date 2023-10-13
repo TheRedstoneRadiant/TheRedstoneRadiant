@@ -1,11 +1,3 @@
-
-<h3>Hi, I'm RedstoneRadiant.</h3>
-
-💼 **Full-Stack Developer**
-
-🎓 Studying CS @ **University of Toronto**
-
-<br><br><br><br>
 <details>
   <summary>🐈</summary>
   
